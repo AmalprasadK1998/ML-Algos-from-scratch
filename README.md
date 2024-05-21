@@ -1,4 +1,2 @@
 # ML-Algos-from-scratch
-### Linear Regression
-### Logistic Regression
-### Perceptron
+### Implementing classic ML Algos from scratch to better improve my understanding.
